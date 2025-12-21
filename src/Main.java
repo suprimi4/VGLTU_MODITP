@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Hello world!");
 
         //changes for lab 6 from nikita
-        System.out.println(" goodbye worl");
+        System.out.println(" goodbye world");
     }
 }
